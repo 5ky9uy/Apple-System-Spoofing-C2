@@ -92,7 +92,3 @@ Attribution is not assigned due to shared techniques and lack of unique malware 
 | Masked Keys    | 8lCb6kRxZ/Z/AADqtlRxXg==, CVGbgVaXKqQnMA/ht1M/pw== |
 
 ---
-
-## License
-
-This material is provided under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/). Use for research and non-commercial purposes is permitted with attribution.
