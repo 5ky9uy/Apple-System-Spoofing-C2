@@ -48,17 +48,6 @@ Artifacts such as crash logs, spindumps, memory artifacts, and spoofed process i
 
 ---
 
-## Supporting Files
-
-- `stacks-2025-08-20-180824.ips`: Stack traces implicating `osanalyticshelper`
-- `MAAutoAsset_Filesystem_History_07.log`: Filesystem changes to protected paths
-- `netstat.txt`: Transient outbound connections not aligned with user behavior
-- `brctl-dump.txt`: Unusual low-level bridge traffic
-- `spindump-nosymbols.txt`: Unsymbolicated memory-resident activity
-- `taskinfo.txt`: Tasks mapped to spoofed `xpcservice` identities
-
----
-
 ## TTP Mapping
 
 Behaviors observed are consistent with:
