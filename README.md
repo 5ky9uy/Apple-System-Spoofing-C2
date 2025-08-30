@@ -1,3 +1,5 @@
+(Original Fork Network Left)
+
 # AppleSystemSpoofing-C2
 
 This repository documents an active post-exploitation infrastructure leveraging Apple system services and iOS framework spoofing. The findings are based on direct observation of anomalous device behavior, C2 traffic patterns, and spoofed native components intended to evade detection.
